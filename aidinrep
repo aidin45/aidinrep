@@ -1,7 +1,6 @@
 for github
 
-
-// SPDX-License-Identifier 
+ SPDX-License-Identifier 
 pragma solidity >=0.8.0;1
 
 interface Token {
