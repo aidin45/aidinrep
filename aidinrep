@@ -6,7 +6,7 @@ pragma solidity >=0.8.0;1
 interface Token {
     function balanceOf(address _a) external vi
     function transfer(address _to, uint _amt) exte
-}
+
 
 contract TokenCorrect is Token {
     mapping (address => uint) balanc
