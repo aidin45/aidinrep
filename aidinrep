@@ -8,7 +8,7 @@ interface Token
     function transfer(address _to, uint _amt) exte
 
 
-contract TokenCorrect is Token {
+contract TokenCorrect is Token 
     mapping (address => uint) balanc
     constructor(address _a, uint 
         balance[_a] = _b;
